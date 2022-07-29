@@ -116,11 +116,11 @@ const App = ({ isServerInfo }) => {
         <Text style={{ display: "block" }}>
           ⭐️ Please star this{" "}
           <a
-            href="https://github.com/ethereum-boilerplate/ethereum-boilerplate/"
+            href="https://github.com/wly99/ethereum-nft-marketplace-boilerplate"
             target="_blank"
             rel="noopener noreferrer"
           >
-            boilerplate
+            FYP
           </a>
           , every star makes us very happy!
         </Text>
