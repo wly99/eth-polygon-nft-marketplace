@@ -135,17 +135,6 @@ const App = ({ isServerInfo }) => {
             Moralis forum
           </a>
         </Text>
-
-        <Text style={{ display: "block" }}>
-          📖 Read more about{" "}
-          <a
-            target="_blank"
-            rel="noopener noreferrer"
-            href="https://moralis.io?utm_source=boilerplatehosted&utm_medium=todo&utm_campaign=ethereum-boilerplat"
-          >
-            Moralis
-          </a>
-        </Text>
       </Footer>
     </Layout>
   );
